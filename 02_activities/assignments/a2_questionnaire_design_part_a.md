@@ -16,30 +16,85 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic:  Topic#1
 
 Describe the purpose of your survey:
 ```
 write your answer here...
+
+The purpose of this survey is to understand the factors driving the high turnover rate among entry- and lower-level employees within the company. The survey aims to identify key areas for improvement. This insight will help guide strategies to enhance employee retention and overall satisfaction.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+write your answer here... 
+
+Target Population: The target population is all entry- and lower-level employees at the tech company, as these groups have experienced the highest turnover rates. This group includes employees from all relevant departments within these job levels.
+
+Sampling Frame: The sampling frame is a complete list of current entry- and lower-level employees in the company’s HR database. This list includes employees’ department affiliations and contact information.
+
+Sampling Units: The sampling units are individual entry- and lower-level employees within the company who could potentially be surveyed.
+
+Overall Sampling Strategy: A stratified random sampling strategy would be appropriate here. By dividing employees into strata based on departments, we can randomly select a proportionate sample from each department to ensure a balanced representation of responses. This approach allows the company to identify department-specific issues and broader trends across job levels while controlling for bias from department size or structure.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1.Overall, how satisfied are you with your current position at the company?
+
+Very satisfied
+Somewhat satisfied
+Neither satisfied nor dissatisfied
+Somewhat dissatisfied
+Very dissatisfied
+
+
+2.In your opinion, what is the most important factor affecting job satisfaction at the company?
+
+Salary and benefits
+Work-life balance
+Support from supervisors
+Opportunities for promotion
+Training and skill development
+Other (please specify): ___________
+
+
+3.How often do you feel supported by your supervisor in your daily work?
+
+Always
+Often
+Sometimes
+Rarely
+Never
+
+4.Do you feel you have enough opportunities to grow your skills within the company?
+
+Yes
+No
+Not sure
+
+5.How well does the company meet your expectations for long-term career growth?
+
+Exceeds my expectations
+Meets my expectations
+Somewhat meets my expectations
+Does not meet my expectations
+Significantly below my expectations
+
+
+6.What is the single most important factor that would make you consider leaving the company?
+
+Compensation
+Career advancement
+Work-life balance
+Management support
+Company culture
+Other (please specify): ___________
+
+7.What one change would you suggest to improve employee satisfaction?
+(Open-ended response)
+
+
 ```
 
 ## Rubric
