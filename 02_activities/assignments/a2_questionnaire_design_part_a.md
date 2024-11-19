@@ -35,6 +35,8 @@ Sampling Frame: The sampling frame is a complete list of current entry- and lowe
 
 Sampling Units: The sampling units are individual entry- and lower-level employees within the company who could potentially be surveyed.
 
+observational units:  The observational units are the responses provided by the selected employees. These responses represent the data being collected about employee satisfaction and turnover factors.
+
 Overall Sampling Strategy: A stratified random sampling strategy would be appropriate here. By dividing employees into strata based on departments, we can randomly select a proportionate sample from each department to ensure a balanced representation of responses. This approach allows the company to identify department-specific issues and broader trends across job levels while controlling for bias from department size or structure.
 ```
 
