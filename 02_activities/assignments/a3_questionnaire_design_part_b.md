@@ -20,6 +20,8 @@
     After learning about the new topics of error, survey quality, and ethics, I have decided to make some changes to my survey to improve its clarity, reduce biases, and ensure ethical standards are met. First, I have reordered the questions to move from general to specific topics, placing sensitive questions like reasons for leaving the company toward the end of the survey. This change minimizes priming effects and helps respondents feel more comfortable as they progress through the survey. Second, I have added a pre-survey introduction to emphasize the anonymity and confidentiality of responses, which encourages honest feedback and reduces nonresponse bias. Third, I simplified the wording of some questions, such as rephrasing "Do you feel you have enough opportunities to grow your skills?" to "Do you believe the company provides enough opportunities for career growth?" to ensure clarity and reduce measurement error. Fourth, I revised question options to improve neutrality by rephrasing "What is the most important factor affecting job satisfaction?" to "What is the most important factor contributing to job satisfaction?" and adding "Workplace culture" as a response option to capture a broader range of factors. Lastly, I refined the open-ended question to provide more guidance, changing it to "What specific change would you suggest to improve employee satisfaction and make the company a better place to work?" to reduce vague responses and focus on actionable insights. These changes collectively enhance the survey's quality and reliability while addressing ethical considerations and potential sources of error.
 
 Revised Survey
+
+
 Overall, how satisfied are you with your current position at the company?
 
 Very satisfied
